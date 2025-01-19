@@ -33,15 +33,6 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 ## Technologies Used
 
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/31896d20-16d9-4fe1-a534-0490841de4b9" alt="image" height="100">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/c09bc4ac-c0ca-4f7c-9c6e-8eb9818eb35b" alt="image" height="100">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/78c75fff-e8a8-49c6-9897-34b08b2c9308" alt="image" height="100">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/3647613e-1d6e-4bc4-98b6-2da5648659f9" alt="image" height="100">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/8a5c0b00-776b-444e-bc24-36fc6bfe4c41" alt="image" height="50">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/b56a7167-6a3a-49a0-8b8a-8a4e3e71a383" alt="image" height="70">
-<img src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/b5c86e65-cbe8-400a-afeb-895846601da7" alt="image"  height="100">
-
-<!--
 - Java Spring Boot Framework
 - Spring Security for authentication
 - JWT (JSON Web Token) for secure API authentication
@@ -49,7 +40,6 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 - Hibernate for object-relational mapping
 - Maven for project management
 - Postman for API testing
--->
 
 ## TODO
 - UI Fix for Dashboard Charts
@@ -66,8 +56,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 4. Build and run the project: `mvn spring-boot:run`
 
 ## Screenshots
-![project](https://github.com/abhi9720/BankingPortal-API/assets/68281476/45bca1e0-0af2-4d63-a8d0-efd7b67df6bf)
-
+![project](https://github.com/abhi9720/BankingPortal-UI/assets/68281476/6c3d8c2e-13e2-49d6-9ec1-ffc3387c741a)
 
 <!---
 <img width="960" alt="Screenshot 2023-07-23 200531" src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/1c3a614b-a87d-4603-9eb8-0a21da6e1ee2">
@@ -92,43 +81,3 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 <img width="960" alt="Screenshot 2023-07-23 212118" src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/2654311c-7af9-4425-adea-36ab709d9c48">
 --->
-## Error Handling
-
-The API implements global exception handling for common error scenarios, such as account not found, unauthorized access, and insufficient balance.
-
-## How to Contribute
-
-We welcome and encourage developers to contribute to the project and help us make it even better. If you are interested in contributing, follow these steps:
-
-👉🏻**Fork the Repository**: Click on the "Fork" button on the top right corner of the GitHub repository page. This will create a copy of the repository in your GitHub account.
-
-👉🏻**Clone the Forked Repository**: Open your terminal or command prompt and use the following command to clone the repository to your local machine:
-   ```
-   git clone https://github.com/your-username/BankingPortal-API.git
-   ```
-   Replace `your-username` with your GitHub username.
-
-👉🏻**Create a New Branch**: Move into the project directory using `cd BankingPortal-API` and create a new branch for your changes:
-   ```
-   git checkout -b feature/your-new-feature
-   ```
-   Replace `your-new-feature` with a descriptive name for your contribution.
-
-👉🏻**Make Changes**: Now, make the desired changes to the codebase using your favorite code editor.
-
-👉🏻**Commit Changes**: After making the changes, save your work and commit the changes with a meaningful commit message:
-   ```
-   git add .
-   git commit -m "Add your commit message here"
-   ```
-
-👉🏻**Push Changes**: Push your changes to your forked repository:
-   ```
-   git push origin feature/your-new-feature
-   ```
-
-👉🏻**Create a Pull Request**: Go to your forked repository on GitHub, and you'll see a "Compare & Pull Request" button. Click on it to create a new pull request.
-
-👉🏻**Wait for Review**: Your pull request will be reviewed by the project maintainers. Make any necessary changes based on their feedback.
-
-**👏🏻👏🏻 Congratulations! 🎉🎊** Your contribution has been accepted and merged into the main repository. You are now a contributor to the project.
